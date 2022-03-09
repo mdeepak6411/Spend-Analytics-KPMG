@@ -13,7 +13,7 @@ analytics and data visualization was undertaken.
 the conclusion of what the student think is happening in the data 
 provided and how the company can profit from it.
 
-# Market Outlook
+## Market Outlook
 In today’s digitalized world procurement has become the most important tool 
 to harness the power of data and draw intelligent insights to achieve and 
 optimize overall performance for an organization. Leading organizations 
@@ -29,7 +29,7 @@ cost can be saved. These concepts have been known for providing a
 recurring spend visibility which can be the future driving force for a long-term 
 cost optimization strategy.
 
-# Overview of the problem
+## Overview of the problem
 You are a data consultant who have been assigned supply chain management 
 project. The client of this project has procurement data and wants to have some 
 insights of how the request are coming in and how are they being managed, so 
@@ -40,7 +40,7 @@ You have been provided with a single file which contains data related to
 procurement transactions for the organization, with several features for 
 analysis.
 
-# Objectives:
+## Objectives:
 1. Analyze the data and identify purchasing trends and patterns 
 2. Identify the cost saving opportunities by using the data of procurement
 3. Cluster items that have similar purchasing patterns
