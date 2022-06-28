@@ -1,19 +1,13 @@
-# Capstone Project- Spend Analytics
+# Capstone Project- Spend Analytics 
 
-## ABSTRACT
-In this project, you will analyze and classify the spend data for 
-the procurement function of a company. This will enable the 
+## Abstract:
+In this project, i have analyzed and classified the spend data for 
+the procurement function of a company. That will enable the 
 company to identify the scope for efficiency improvement and 
 better strategic planning.
 
-The output of this project will be 2 reports:
-1. The first report will contain a brief on how the entire process of data preprocessing, feature engineering, predictive analytics, descriptive 
-analytics and data visualization was undertaken. 
-2. The second report will have all the results, dashboards, model scores and 
-the conclusion of what the student think is happening in the data 
-provided and how the company can profit from it.
 
-## Market Outlook
+## Market Outlook:
 In today’s digitalized world procurement has become the most important tool 
 to harness the power of data and draw intelligent insights to achieve and 
 optimize overall performance for an organization. Leading organizations 
@@ -29,21 +23,16 @@ cost can be saved. These concepts have been known for providing a
 recurring spend visibility which can be the future driving force for a long-term 
 cost optimization strategy.
 
-## Overview of the problem
-You are a data consultant who have been assigned supply chain management 
-project. The client of this project has procurement data and wants to have some 
-insights of how the request are coming in and how are they being managed, so 
-that he can understand how the request are being raised and processed. You
-have the freedom of using any standard technique or methods for generating a 
-report.
-You have been provided with a single file which contains data related to 
-procurement transactions for the organization, with several features for 
-analysis.
+## Conclusion:
+In conclusion based on our analysis we can see that the data belongs to a poultry company
+owing to products like feeds, maize, soya bean and poultry specific vaccines.
+We have seen a very high number of purchase orders and requesters for the same products. 
+Additionally, we have observed the weekly ordering of higher quantities of top products.
 
-## Objectives:
-1. Analyze the data and identify purchasing trends and patterns 
-2. Identify the cost saving opportunities by using the data of procurement
-3. Cluster items that have similar purchasing patterns
-4. Create dashboards using any Visualization tool; e.g. Tableau
-5. Make a report describing all the findings.
+Hence, we recommend consolidation of POs and requesters to enable cost saving through bulk purchases. 
+This in turn can eliminate redundancies and help optimise the procurement process.
 
+On further examination i have discovered that the highest quantities were ordered on Tuesdays 
+which went hand in hand with high rebate basis on Tuesdays. 
+Thus, we can conclude that higher cost savings can be achieved by ordering on Tuesdays as 
+opposed to the other weekdays or weekends.
